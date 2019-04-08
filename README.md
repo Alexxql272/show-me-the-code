@@ -1,12 +1,21 @@
 ## Python 练习册，每天一个小程序 ##
+## Python Practice, have a tiny program everyday ##
 
 
 #### 说明： ####
+#### Introduction: ####
 
 - Python 练习册，每天一个小程序。注：将 Python 换成其他语言，大多数题目也适用
+- Python Practice, have a tiny program everyday. Ps: most of the problems can be solved by other languages
+
 - 不会出现诸如「打印九九乘法表」、「打印水仙花」之类的题目
+- There won't be some problems like "Print mutiplication table" or "print Narcissistic numbers"
+
 - [点此链接，会看到部分题目的代码，仅供参考](https://github.com/Show-Me-the-Code/python)
-- 本文本文由@史江歌（shijiangge@gmail.com  QQ:499065469）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！本文会不断更新。
+- [to see some of problems code, only for reference](https://github.com/Show-Me-the-Code/python)
+
+- 本文本文由@史江歌（shijiangge@gmail.com  QQ:499065469根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！本文会不断更新。
+- This text is collected and arraged by @史江歌（shijiangge@gmail.com  QQ:499065469）from Internet, thanks for Internet, thanks for everybody sharing. Thanks a lot! This article will update constantly.
 
 > Talk is cheap. Show me the code.--Linus Torvalds
 
@@ -14,10 +23,12 @@
  
 **第 0000 题：** 将你的 QQ 头像（或者微博头像）右上角加上红色的数字，类似于微信未读信息数量那种提示效果。
 类似于图中效果
+**No.0000** Add a red number to your avatar, like unread message notification.
 
 ![头像](http://i.imgur.com/sg2dkuY.png?1)
 
 **第 0001 题：** 做为 Apple Store App 独立开发者，你要搞限时促销，为你的应用**生成激活码**（或者优惠券），使用 Python 如何生成 200 个激活码（或者优惠券）？
+**No.0001** As an independent developer in Apple Store App, you want to have a SALE， **Generate activation code**(or coupons) for your APP, use Python to generate 200 activationcodes(or coupons)?
 
 **第 0002 题:** 将 0001 题生成的 200 个激活码（或者优惠券）保存到 **MySQL** 关系型数据库中。 
 
